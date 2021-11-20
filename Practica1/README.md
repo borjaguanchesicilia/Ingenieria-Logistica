@@ -42,8 +42,6 @@
 
       </center><br>
 
-* A continuación se procederá a explicar en qué consiste cada uno y se implementará un código para modelizarlos y resolver un ejemplo, utilizando para ello la herramienta ***OR-tools*** de Google.
-
 
 ### **Problema de asignación 3-dimensional axial:**
 
